@@ -3,4 +3,4 @@ Starter notebook with baseline models for  bloods.ai-Blood-Spectroscopy-Classifi
 The original data can be downloaded from:
 https://zindi.africa/competitions/bloodsai-blood-spectroscopy-classification-challenge/data
 
-"Additional data was not used while creating training and testing file"
+" For additional data..i have only shown the process for training hdl task. The training for hgb and ldl can be done in a similar way. Finally submission of all these task can be combined in order to obtain final submission file".
